@@ -29,7 +29,7 @@ Simple Blackjack game built in vanilla JavaScript as part of a Scrimba learning 
 
 ## Preview
 
-(Add a screenshot here later)
+![Preview screenshot](/img/preview.png)
 
 ## Author
 
